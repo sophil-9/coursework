@@ -1,0 +1,100 @@
+# Blender MTL File: 'Greece.blend'
+# Material Count: 7
+
+newmtl greece_statue4.1001
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump -bm 0.000000 greece_statue4.1001_normal.jpg
+map_Kd greece_statue4.1001_diffuse.jpg
+map_Ks greece_statue4.1001_specular.jpg
+map_Ns greece_statue4.1001_roughness.jpg
+
+newmtl greece_statue4.1002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump -bm 0.000000 greece_statue4.1002_normal.jpg
+map_Kd greece_statue4.1002_diffuse.jpg
+map_Ks greece_statue4.1002_specular.jpg
+map_Ns greece_statue4.1002_roughness.jpg
+
+newmtl greece_statue4.1003
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump -bm 0.000000 greece_statue4.1003_normal.jpg
+map_Kd greece_statue4.1003_diffuse.jpg
+map_Ks greece_statue4.1003_specular.jpg
+map_Ns greece_statue4.1003_roughness.jpg
+
+newmtl greece_statue4.1004
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump -bm 0.000000 greece_statue4.1004_normal.jpg
+map_Kd greece_statue4.1004_diffuse.jpg
+map_Ks greece_statue4.1004_specular.jpg
+map_Ns greece_statue4.1004_roughness.jpg
+
+newmtl greece_statue4.1005
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump -bm 0.000000 greece_statue4.1005_normal.jpg
+map_Kd greece_statue4.1005_diffuse.jpg
+map_Ks greece_statue4.1005_specular.jpg
+map_Ns greece_statue4.1005_roughness.jpg
+
+newmtl greece_statue4.1006
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump -bm 0.000000 greece_statue4.1006_normal.jpg
+map_Kd greece_statue4.1006_diffuse.jpg
+map_Ks greece_statue4.1006_specular.jpg
+map_Ns greece_statue4.1006_roughness.jpg
+
+newmtl greece_statue4.1007
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Bump -bm 0.000000 greece_statue4.1007_normal.jpg
+map_Kd greece_statue4.1007_diffuse.jpg
+map_Ks greece_statue4.1007_specular.jpg
+map_Ns greece_statue4.1007_roughness.jpg
